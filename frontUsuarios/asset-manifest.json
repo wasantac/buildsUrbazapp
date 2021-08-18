@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.599414c8.chunk.css",
-    "main.js": "/static/js/main.187222d7.chunk.js",
-    "main.js.map": "/static/js/main.187222d7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cd50679a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cd50679a.js.map",
+    "main.css": "/static/css/main.0a42029b.chunk.css",
+    "main.js": "/static/js/main.88bc9fbf.chunk.js",
+    "main.js.map": "/static/js/main.88bc9fbf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6c526839.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6c526839.js.map",
     "static/css/2.6c3af4b2.chunk.css": "/static/css/2.6c3af4b2.chunk.css",
-    "static/js/2.dd93a53a.chunk.js": "/static/js/2.dd93a53a.chunk.js",
-    "static/js/2.dd93a53a.chunk.js.map": "/static/js/2.dd93a53a.chunk.js.map",
-    "static/js/3.196cab49.chunk.js": "/static/js/3.196cab49.chunk.js",
-    "static/js/3.196cab49.chunk.js.map": "/static/js/3.196cab49.chunk.js.map",
+    "static/js/2.aaeffa46.chunk.js": "/static/js/2.aaeffa46.chunk.js",
+    "static/js/2.aaeffa46.chunk.js.map": "/static/js/2.aaeffa46.chunk.js.map",
+    "static/js/3.f012eac4.chunk.js": "/static/js/3.f012eac4.chunk.js",
+    "static/js/3.f012eac4.chunk.js.map": "/static/js/3.f012eac4.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.6c3af4b2.chunk.css.map": "/static/css/2.6c3af4b2.chunk.css.map",
-    "static/css/main.599414c8.chunk.css.map": "/static/css/main.599414c8.chunk.css.map",
-    "static/js/2.dd93a53a.chunk.js.LICENSE.txt": "/static/js/2.dd93a53a.chunk.js.LICENSE.txt",
+    "static/css/main.0a42029b.chunk.css.map": "/static/css/main.0a42029b.chunk.css.map",
+    "static/js/2.aaeffa46.chunk.js.LICENSE.txt": "/static/js/2.aaeffa46.chunk.js.LICENSE.txt",
     "static/media/ban1.410b3bfd.png": "/static/media/ban1.410b3bfd.png",
     "static/media/ban7.ebe78c37.png": "/static/media/ban7.ebe78c37.png",
     "static/media/ban9.7e54bd6b.png": "/static/media/ban9.7e54bd6b.png",
@@ -28,10 +28,10 @@
     "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd50679a.js",
+    "static/js/runtime-main.6c526839.js",
     "static/css/2.6c3af4b2.chunk.css",
-    "static/js/2.dd93a53a.chunk.js",
-    "static/css/main.599414c8.chunk.css",
-    "static/js/main.187222d7.chunk.js"
+    "static/js/2.aaeffa46.chunk.js",
+    "static/css/main.0a42029b.chunk.css",
+    "static/js/main.88bc9fbf.chunk.js"
   ]
 }
